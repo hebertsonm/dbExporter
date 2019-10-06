@@ -1,0 +1,7 @@
+requests
+pathlib
+cryptography
+psycopg2
+datetime
+boto3
+pyAesCrypt
